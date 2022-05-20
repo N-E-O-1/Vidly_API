@@ -1,0 +1,63 @@
+{"level":"error","message":"could not get genres. could not get genres.","stack":"Error: could not get genres.\n    at D:\\first_app\\vidly\\Routes\\genre.js:9:9\n    at newFn (D:\\first_app\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\first_app\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\first_app\\vidly\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (D:\\first_app\\vidly\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at newFn (D:\\first_app\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\first_app\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\first_app\\vidly\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (D:\\first_app\\vidly\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (D:\\first_app\\vidly\\node_modules\\express\\lib\\router\\index.js:280:10)"}
+{"level":"error","message":"could not connect to db could not connect to db","stack":"Error: could not connect to db\n    at D:\\first_app\\vidly\\Routes\\genre.js:9:9\n    at newFn (D:\\first_app\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\first_app\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\first_app\\vidly\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (D:\\first_app\\vidly\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at newFn (D:\\first_app\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\first_app\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\first_app\\vidly\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (D:\\first_app\\vidly\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (D:\\first_app\\vidly\\node_modules\\express\\lib\\router\\index.js:280:10)"}
+{"level":"info","message":"listening on port 3000..."}
+{"level":"info","message":"listening on port 3000..."}
+{"level":"info","message":"connected to mongodb://localhost/vidly.."}
+{"level":"info","message":"connected to mongodb://localhost/vidly.."}
+{"level":"info","message":"listening on port 3000..."}
+{"level":"info","message":"connected to mongodb://localhost/vidly.."}
+{"level":"info","message":"listening on port 3000..."}
+{"level":"info","message":"connected to mongodb://localhost/vidly.."}
+{"level":"info","message":"listening on port 3000..."}
+{"level":"info","message":"connected to mongodb://localhost/vidly.."}
+{"level":"info","message":"listening on port 3000..."}
+{"level":"info","message":"connected to mongodb://localhost/vidly.."}
+{"level":"info","message":"listening on port 3000..."}
+{"level":"info","message":"connected to mongodb://localhost/vidly.."}
+{"level":"info","message":"listening on port 3000..."}
+{"level":"info","message":"listening on port 3000..."}
+{"level":"info","message":"listening on port 3000..."}
+{"level":"info","message":"listening on port 3000..."}
+{"level":"info","message":"connected to mongodb://localhost/vidly.."}
+{"level":"info","message":"listening on port 3000..."}
+{"level":"info","message":"connected to mongodb://localhost/vidly.."}
+{"level":"info","message":"listening on port 3000..."}
+{"level":"info","message":"connected to mongodb://localhost/vidly.."}
+{"level":"info","message":"listening on port 3000..."}
+{"level":"info","message":"connected to mongodb://localhost/vidly.."}
+{"level":"info","message":"listening on port 3000..."}
+{"level":"info","message":"listening on port 3000..."}
+{"level":"info","message":"connected to mongodb://localhost/vidly.."}
+{"level":"info","message":"listening on port 3000..."}
+{"level":"info","message":"connected to mongodb://localhost/vidly.."}
+{"level":"info","message":"listening on port 3000..."}
+{"level":"info","message":"connected to mongodb://localhost/vidly.."}
+{"level":"info","message":"listening on port 3000..."}
+{"level":"info","message":"connected to mongodb://localhost/vidly.."}
+{"level":"info","message":"listening on port 3000..."}
+{"level":"info","message":"connected to mongodb://localhost/vidly.."}
+{"level":"info","message":"listening on port 3000..."}
+{"level":"info","message":"listening on port 3000..."}
+{"level":"info","message":"listening on port 3000..."}
+{"level":"info","message":"connected to mongodb"}
+{"level":"info","message":"listening on port 3000..."}
+{"level":"info","message":"connected to mongodb"}
+{"level":"info","message":"listening on port 3000..."}
+{"level":"info","message":"connected to mongodb"}
+{"level":"info","message":"listening on port 3000..."}
+{"level":"info","message":"connected to mongodb"}
+{"level":"info","message":"listening on port 3000..."}
+{"level":"info","message":"connected to mongodb"}
+{"level":"info","message":"listening on port 3000..."}
+{"level":"info","message":"connected to mongodb"}
+{"level":"info","message":"listening on port 3000..."}
+{"level":"info","message":"connected to mongodb"}
+{"level":"info","message":"connected to mongodb"}
+{"level":"info","message":"connected to mongodb"}
+{"level":"info","message":"listening on port 3000..."}
+{"level":"info","message":"connected to mongodb"}
+{"code":13297,"index":0,"level":"error","message":"db already exists with different case already have: [vidly1] trying to create [Vidly1] db already exists with different case already have: [vidly1] trying to create [Vidly1]","stack":"MongoServerError: db already exists with different case already have: [vidly1] trying to create [Vidly1]\n    at D:\\first_app\\vidly\\node_modules\\mongodb\\lib\\operations\\insert.js:53:33\n    at D:\\first_app\\vidly\\node_modules\\mongodb\\lib\\cmap\\connection_pool.js:273:25\n    at handleOperationResult (D:\\first_app\\vidly\\node_modules\\mongodb\\lib\\sdam\\server.js:327:20)\n    at Connection.onMessage (D:\\first_app\\vidly\\node_modules\\mongodb\\lib\\cmap\\connection.js:215:9)\n    at MessageStream.<anonymous> (D:\\first_app\\vidly\\node_modules\\mongodb\\lib\\cmap\\connection.js:63:60)\n    at MessageStream.emit (node:events:527:28)\n    at processIncomingData (D:\\first_app\\vidly\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:108:16)\n    at MessageStream._write (D:\\first_app\\vidly\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:28:9)\n    at writeOrBuffer (node:internal/streams/writable:389:12)\n    at _write (node:internal/streams/writable:330:10)"}
+{"level":"info","message":"listening on port 3000..."}
+{"level":"info","message":"connected to mongodb"}
+{"code":13297,"index":0,"level":"error","message":"db already exists with different case already have: [vidly1] trying to create [Vidly1] db already exists with different case already have: [vidly1] trying to create [Vidly1]","stack":"MongoServerError: db already exists with different case already have: [vidly1] trying to create [Vidly1]\n    at D:\\first_app\\vidly\\node_modules\\mongodb\\lib\\operations\\insert.js:53:33\n    at D:\\first_app\\vidly\\node_modules\\mongodb\\lib\\cmap\\connection_pool.js:273:25\n    at handleOperationResult (D:\\first_app\\vidly\\node_modules\\mongodb\\lib\\sdam\\server.js:327:20)\n    at Connection.onMessage (D:\\first_app\\vidly\\node_modules\\mongodb\\lib\\cmap\\connection.js:215:9)\n    at MessageStream.<anonymous> (D:\\first_app\\vidly\\node_modules\\mongodb\\lib\\cmap\\connection.js:63:60)\n    at MessageStream.emit (node:events:527:28)\n    at processIncomingData (D:\\first_app\\vidly\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:108:16)\n    at MessageStream._write (D:\\first_app\\vidly\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:28:9)\n    at writeOrBuffer (node:internal/streams/writable:389:12)\n    at _write (node:internal/streams/writable:330:10)"}
+{"level":"error","message":"data and salt arguments required data and salt arguments required","stack":"Error: data and salt arguments required\n    at Object.hash (D:\\first_app\\vidly\\node_modules\\bcrypt\\bcrypt.js:137:17)\n    at D:\\first_app\\vidly\\node_modules\\bcrypt\\promises.js:29:12\n    at new Promise (<anonymous>)\n    at Object.module.exports.promise (D:\\first_app\\vidly\\node_modules\\bcrypt\\promises.js:20:12)\n    at Object.hash (D:\\first_app\\vidly\\node_modules\\bcrypt\\bcrypt.js:133:25)\n    at D:\\first_app\\vidly\\Routes\\users.js:22:35"}
